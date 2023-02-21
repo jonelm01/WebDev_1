@@ -17,3 +17,4 @@ link to index (home).
 -github pages and add link here
 -finalize,organize
 -remove ';' on page2
+-update index to current ver.
