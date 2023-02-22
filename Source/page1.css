@@ -6,6 +6,8 @@ body {
     
     border-radius: 10px;
     margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
     padding: 10px;
 
     color:rgb(79, 47, 88) ;
