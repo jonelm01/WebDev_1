@@ -1,8 +1,32 @@
 body {
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: medium;
     text-decoration: wavy;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
     color:rgb(51, 87, 92) ;
+    
+    border-radius: 10px;
+    margin: 50px;
+    padding: 10px;
+
     background-image: url(https://wallpaperaccess.com/full/1155041.jpg);
+}
+
+a{
+    background-color:rgb(233, 158, 220);
+    color:rgb(206, 53, 160);
+    
+    border-color: rgb(100, 100, 100);
+    border-radius: 10px;
+    border-style:outset;
+    margin: 50px;
+    padding: 10px;
+}
+
+pre{
+    text-align: center;
+    color: gold;
+
+    margin: 50px;
+    padding: 10px;
 }
