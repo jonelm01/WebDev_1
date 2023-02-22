@@ -15,6 +15,5 @@ link to index (home).
 
 ---TO-DO---
 -github pages and add link here
--finalize,organize
--remove ';' on page2
--update index to current ver.
+-add prof as collaborator
+
